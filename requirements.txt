@@ -1,10 +1,10 @@
-streamlit
-opencv-python
-numpy
-Pillow
-opencv-contrib-python
-matplotlib
-scikit-image
+streamlit==1.25.0
+opencv-python==4.8.0.76
+opencv-contrib-python==4.8.0.76
+numpy==1.24.4
+Pillow==9.5.0
+matplotlib==3.7.2
+scikit-image==0.21.0
 absl-py==2.1.0
 addict==2.4.0
 aiohappyeyeballs==2.4.3
